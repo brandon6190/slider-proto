@@ -1,0 +1,32 @@
+.testimonial-slider {
+    width: 100%;
+}
+
+.testimonial-card {
+    max-width: 350px;
+    padding: 30px;
+    margin: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.testimonial-icon img {
+    max-width: 10%;
+}
+
+/* .testimonial-text {
+    text-align: center;
+} */
+
+/* .testimonial-image {
+    text-align: center;
+} */
+
+.testimonial-image img {
+    border-radius: 50%;
+    max-width: 25%;
+    margin: 15px auto;
+}
+
+.testimonial-name {
+    text-align: center;
+}
